@@ -1,0 +1,103 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Biodegradable
+  - GameObject
+  - Lolo Harm
+  - NonBiodegradable
+  - Banana Peel
+  - Plastic Bottles
+  - Achievement
+  - AuntieDeanna
+  - Details_Trash
+  - LoloHarm
+  - UncleLarry
+  - UncleWayne
+  - CraftingTable
+  - Box
+  - Plastic
+  - Jar
+  - Can
+  - TissuePaper
+  - Rotten Carrot
+  - Rotten Banana
+  - Candy Wrapper
+  - Crampled Paper
+  - Dried Leaf
+  - Orange Peel
+  - Paper Bag
+  - PizzaBox
+  - Styro Cup
+  - Tetra Pack
+  - TetraPack
+  - Tiolet Paper
+  - Tetra pack
+  - OrangePeel
+  - Orange peel
+  - Pizza Box
+  - Rotten Food
+  - Tire
+  - Tires
+  - Enemy
+  - Crumpled Paper
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - SolidObjects
+  - Water
+  - UI
+  - Background
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 581399239
+    locked: 0
+  - name: SolidObjects
+    uniqueID: 1154618875
+    locked: 0
+  - name: Trash
+    uniqueID: 631907621
+    locked: 0
+  - name: Crafting_table
+    uniqueID: 2006901685
+    locked: 0
+  - name: NPC
+    uniqueID: 2536482913
+    locked: 0
+  - name: Enemy
+    uniqueID: 3454769141
+    locked: 0
+  - name: Player
+    uniqueID: 556065765
+    locked: 0

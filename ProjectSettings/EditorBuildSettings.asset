@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Start Menu.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Introduction.unity
+    guid: 620a14492df661c4dbac905c9c900f25
+  - enabled: 1
+    path: Assets/Scenes/TutorialForGame.unity
+    guid: ace1cc04bd564d740bcb4589ecbebb87
+  - enabled: 1
+    path: Assets/Scenes/CraftingTutorial.unity
+    guid: aad183a7ad548e748826ee5e7d33ba42
+  - enabled: 1
+    path: Assets/Scenes/Base.unity
+    guid: 7f7fc6fc7aedcb44d887b5ea67cd02a3
+  - enabled: 1
+    path: Assets/Scenes/FinishCutscene.unity
+    guid: 80288f50f1c055e47a767cf484f71575
+  - enabled: 1
+    path: Assets/Scenes/Cutscene_Last.unity
+    guid: 7adf05b8fd8568b40a51b52df52dca6e
+  - enabled: 1
+    path: Assets/Scenes/Park Levels/Park_1.unity
+    guid: e5b0ba8c7bb84214381b50b7caca4341
+  - enabled: 1
+    path: Assets/Scenes/Park Levels/Park_2.unity
+    guid: 8641ed1de3bfb974daaa56c86219b0d0
+  - enabled: 1
+    path: Assets/Scenes/Park Levels/Park_3.unity
+    guid: 52f882ddf91b82c438d6b503015363a7
+  - enabled: 1
+    path: Assets/Scenes/House Levels/House_1.unity
+    guid: 0b25811c7bfc6e149ad62d4b0f515f64
+  - enabled: 1
+    path: Assets/Scenes/House Levels/House_2.unity
+    guid: 7d5990d35141d6e428b80d3519899adf
+  - enabled: 1
+    path: Assets/Scenes/House Levels/House_3.unity
+    guid: 2aaea08b1d7840f4ca6417eb6bf85bba
+  - enabled: 1
+    path: Assets/Scenes/Community Levels/Community_1.unity
+    guid: 2c2996b057b2d38409428675647248e1
+  - enabled: 1
+    path: Assets/Scenes/Community Levels/Community_2.unity
+    guid: 3b1af3dbea4c8554399ac2937dd1bac4
+  - enabled: 1
+    path: Assets/Scenes/Community Levels/Community_3.unity
+    guid: 4e5cdd1842dc1d94fa6489f6de2f220b
+  - enabled: 1
+    path: Assets/Scenes/School Levels/School_Classroom_Rework.unity
+    guid: c6c6ee04b865b3242b0365ce22e9540b
+  - enabled: 1
+    path: Assets/Scenes/School Levels/School_Faculty_Rework.unity
+    guid: d4503672f5bbbba4a8bbd9234330a6dc
+  - enabled: 1
+    path: Assets/Scenes/Quiz_assessment.unity
+    guid: 126a730317dc73046bf53821dc40ec58
+  - enabled: 1
+    path: Assets/Scenes/School Levels/School_Library_Rework.unity
+    guid: 3f001e8e711111349b3c3660836f37df
+  m_configObjects: {}

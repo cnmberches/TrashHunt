@@ -1,0 +1,150 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &3689324773517695724
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3689324773517695730}
+  - component: {fileID: 3689324773517695725}
+  m_Layer: 0
+  m_Name: GameManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3689324773517695730
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3689324773517695724}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 215.4167, y: 131.90373, z: -2.4623787}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &3689324773517695725
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3689324773517695724}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4e15e9235eeac074bbe15690656968cc, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  questions:
+  - Fact: Plastic Bottle is an example of non-biodegradable trash.
+    isTrue: 1
+  - Fact: Plastic Bottle can be recycled into a new product.
+    isTrue: 1
+  - Fact: Banana Peel is an example of non-biodegradable trash.
+    isTrue: 0
+  - Fact: Candy Wrapper is an example of non-biodegradable trash.
+    isTrue: 1
+  - Fact: Plastic Bag is an example of biodegradable trash.
+    isTrue: 0
+  - Fact: Rotten Meat is an example of non-biodegradable trash.
+    isTrue: 0
+  - Fact: Tissue Paper is an example of biodegradable trash.
+    isTrue: 1
+  - Fact: Crumpled Paper is an example of biodegradable trash.
+    isTrue: 1
+  - Fact: Can is an example of biodegradable trash.
+    isTrue: 0
+  - Fact: Styro Cup is an example of biodegradable trash.
+    isTrue: 0
+  - Fact: Orange Peel is an example of biodegradable trash.
+    isTrue: 1
+  - Fact: Juice Tetra Pack is an example of non-biodegradable trash.
+    isTrue: 1
+  - Fact: Worn Tire is an example of biodegradable trash.
+    isTrue: 0
+  - Fact: Box is an example of biodegradable trash.
+    isTrue: 1
+  - Fact: Box can be recycled into a new product.
+    isTrue: 1
+  - Fact: Dried Leaf is an example of non-biodegradable trash.
+    isTrue: 0
+  - Fact: Jar is an example of biodegradable trash.
+    isTrue: 0
+  - Fact: Biodegradable trashes are not decomposable.
+    isTrue: 0
+  - Fact: Non-biodegradable trashes are not decomposable.
+    isTrue: 1
+  - Fact: Waste segregation is the solution for a healthy environment.
+    isTrue: 1
+  Tagalogquestions:
+  - Fact: Ang plastik na bote ay isang halimbawa ng hindi nabubulok na basura.
+    isTrue: 0
+  - Fact: Ang plastic na bote ay maaaring i-recycle at gamitin muli bilang isang
+      bagong produkto
+    isTrue: 0
+  - Fact: Ang balat ng saging ay isang halimbawa ng hindi nabubulok na basura.
+    isTrue: 0
+  - Fact: Ang balat ng kendi ay isang halimbawa ng hindi nabubulok na basura.
+    isTrue: 0
+  - Fact: Ang plastik bag ay isang halimbawa ng nabubulok na basura.
+    isTrue: 0
+  - Fact: Ang bulok na karne ay isang halimbawa ng hindi nabubulok na basura.
+    isTrue: 0
+  - Fact: Ang tisyu ay isang halimbawa ng nabubulok na basura.
+    isTrue: 0
+  - Fact: Ang lukot na papel ay isang halimbawa ng nabubulok na basura.
+    isTrue: 0
+  - Fact: Ang lata ay isang halimbawa ng nabubulok na basura.
+    isTrue: 0
+  - Fact: Ang styro na baso ay isang halimbawa ng nabubulok na basura.
+    isTrue: 0
+  - Fact: Ang balat ng orange ay isang halimbawa ng nabubulok na basura.
+    isTrue: 0
+  - Fact: Ang juice tetra pack ay isang halimbawa ng hindi nabubulok na basura.
+    isTrue: 0
+  - Fact: Ang sirang gulong ay isang halimbawa ng nabubulok na basura.
+    isTrue: 0
+  - Fact: Ang kahon ay isang halimbawa ng nabubulok na basura.
+    isTrue: 0
+  - Fact: Ang kahon ay maaaring i-recycle at gamitin muli bilang isang bagong produkto.
+    isTrue: 0
+  - Fact: Ang tuyong dahon ay isang halimbawa ng non-biodegradable na basura.
+    isTrue: 0
+  - Fact: Ang bote ng garapon ay isang halimbawa ng nabubulok na basura.
+    isTrue: 0
+  - Fact: Ang mga basurang nabubulok ay hindi nabubulok.
+    isTrue: 0
+  - Fact: Ang mga hindi nabubulok na basura ay hindi nabubulok.
+    isTrue: 0
+  - Fact: 'Ang paghihiwalay ng basura ay ang solusyon para sa isang malusog na kapaligiran. '
+    isTrue: 0
+  CorrectFX: {fileID: 0}
+  WrongFX: {fileID: 0}
+  txt: {fileID: 0}
+  QuestionNum: {fileID: 0}
+  FinalScoretxt: {fileID: 0}
+  CheckPanel: {fileID: 0}
+  WrongPanel: {fileID: 0}
+  FinalScore: {fileID: 0}
+  CongratsPanel: {fileID: 0}
+  FailedPanel: {fileID: 0}
+  player: {fileID: 0}
+  btnTrue: {fileID: 0}
+  btnFalse: {fileID: 0}
+  currentQuestion:
+    Fact: 
+    isTrue: 0
+  TagalogcurrentQuestion:
+    Fact: 
+    isTrue: 0
+  isQuizIsPassed: 0
+  isTagalog: 0
